@@ -1,0 +1,53 @@
+
+.four{
+    background-color:#E8F9F6 ;
+    border-radius: 10px;
+}
+
+#newsletter-card{
+    position: relative;
+    top: -10%;
+    background-image: url("../assets/Mask\ group.png");
+    background-size: cover;
+    height: 30vh;
+    background-color: #fff;
+    border-radius: 10px;
+}
+ 
+#newsletter-card h5{
+    width: 70%;
+    font-weight: bold;
+}
+#newsletter-card button{
+    background-color: #17c1a3;
+    border: none;
+    font-size: .8rem;
+}
+#newsletter-input{
+    padding-bottom: 1px;
+    border-bottom: 1px solid black;
+}
+#newsletter-input input{
+    border: none;
+}
+#newsletter-input input::placeholder{
+    font-size: 0.8rem;
+    color: gray;
+}
+
+#footer p{
+    font-size: .6rem;
+}
+#footer h6{
+    font-size: .8rem;
+    font-weight: bold;
+}
+#footer-gg-logo{
+    width: 200px;
+}
+#footer-social {
+    width: 60%;
+}
+#footer-social img{
+    width: 20px;
+}
