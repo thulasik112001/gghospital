@@ -1,13 +1,13 @@
 
 .four{
-    background-color:#E8F9F6 ;
+    background-color:#EAF2FF;
     border-radius: 10px;
 }
 
 #newsletter-card{
     position: relative;
     top: -10%;
-    background-image: url("../assets/Mask\ group.png");
+    background-image: url("/images/news.png");
     background-size: cover;
     height: 30vh;
     background-color: #fff;
